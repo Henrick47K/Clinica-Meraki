@@ -3,7 +3,7 @@
 ### Autores da equipe: Solano Prevosti Bastos, Henrique Duarte Lima, Miguel Ribeiro Fleck, Jonatha Lohan Moreira da Silveira
 
 ## Problema:
-O problema seria o agendamento em clinicas multidisciplinares/hospitais.
+O problema central que a equipe encontrou foi o agendamento em clinicas multidisciplinares/hospitais.
 <br>
 
 ## Contexo:
@@ -19,5 +19,5 @@ Os recepcionistas e funcionários que tem que enfrentar o quebra-cabeça de orga
 <br>
 
 ## Justificativa rápida:
-Eu (Solano), trabalho em uma clinica multidisciplinar e lido com esse problema diariamente.
+Eu (Solano), trabalho em uma clinica multidisciplinar e lido com esse problema diariamente, esse software melhoraria principalmente a organização da clinica e também o tempo por facilitar o agendamento de horário de maneira automatizada.
 <br>
