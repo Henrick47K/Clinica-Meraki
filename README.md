@@ -1,5 +1,7 @@
 # Clinica-Meraki
 
+### Autores da equipe: Solano Prevosti Bastos, Henrique Duarte Lima, Miguel Ribeiro Fleck, Jonatha Lohan Moreira da Silveira
+
 ## Problema:
 O problema seria o agendamento em clinicas multidisciplinares/hospitais.
 <br>
