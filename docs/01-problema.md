@@ -21,3 +21,5 @@ Os recepcionistas e funcionários que tem que enfrentar o quebra-cabeça de orga
 ## Justificativa rápida:
 Eu (Solano), trabalho em uma clinica multidisciplinar e lido com esse problema diariamente, esse software melhoraria principalmente a organização da clinica e também o tempo por facilitar o agendamento de horário de maneira automatizada.
 <br>
+
+## Esboço da atividade 2:
