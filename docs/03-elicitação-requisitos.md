@@ -148,4 +148,7 @@ Eu mudaria a parte de **ficar conferindo a planilha o tempo todo**. Se tivesse u
 
 ## 6. Reflexão
 
-Texto da reflexão da equipe.
+## Reflexão
+
+A entrevista funcionou bem porque conseguimos identificar as principais dificuldades enfrentadas pela recepção durante os agendamentos, principalmente em relação ao uso de planilhas, conflitos de horários e cancelamentos. Uma das dificuldades foi transformar problemas do dia a dia em necessidades que poderiam ser atendidas pelo sistema. Também percebemos que algumas informações importantes só apareceram quando fizemos perguntas mais específicas. Em uma entrevista real, procuraríamos fazer perguntas de acompanhamento sempre que uma resposta apresentasse algum problema ou situação que pudesse ser melhor explorada.
+
